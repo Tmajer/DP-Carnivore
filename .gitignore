@@ -1,0 +1,16 @@
+results
+demo
+wandb
+
+DEPRECATED_rescale_oks_experiment.py
+
+*.pth
+
+*.jpg
+!001c146006dda1c3ec5275775b17d7cdc4c1a09173944e3cc0b3c9df5718b387.jpg
+!0fcc79e8bfdbcff6c8307b7faf000625115cc00d3a98028f2594fc852b8aef2c.jpg
+!2a4e6568ec25f956ac155c9b2a8cd60112d67126683365bbb37621768c6314d6.jpg
+
+*.json
+!metadata_tiny.json
+!metadata_tiny_cleaned.json
